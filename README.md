@@ -1,4 +1,4 @@
-# Power BI Doc Fácil — downloads oficiais
+# Power BI Doc Fácil — Downloads Oficiais
 
 ## Objetivo deste repositório
 
