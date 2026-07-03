@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-18T18:00:00Z",
+  "updated_at": "2026-07-03T02:05:00Z",
   "app": {
-    "latest_version": "1.1.0",
-    "download_url": "https://github.com/pauloroos/powerbi-doc-facil-releases/releases/download/PBI-DOC-FACIL/Power-BI-Doc-Facil-Setup-1.1.0.exe",
-    "release_page_url": "https://github.com/pauloroos/powerbi-doc-facil-releases/releases/tag/PBI-DOC-FACIL",
-    "release_notes": "Manifest público para updates e créditos; provedor NVIDIA NIM; base para conexão com o Hub enterprise."
+    "latest_version": "1.2.0",
+    "download_url": "https://github.com/pauloroos/powerbi-doc-facil-releases/releases/download/v1.2.0/Power-BI-Doc-Facil-Setup-1.2.0.exe",
+    "release_page_url": "https://github.com/pauloroos/powerbi-doc-facil-releases/releases/tag/v1.2.0",
+    "release_notes": "Suporte a projetos PBIP (modelo TMDL + relatório PBIR); relatório HTML interativo além do Word; correções de UI (Organização, Ajuda, Análises fullscreen)."
   },
   "contributors": [
     { "name": "Lucas Ferraioli Curti", "tier": "maintainer", "since": "2026-05" }
